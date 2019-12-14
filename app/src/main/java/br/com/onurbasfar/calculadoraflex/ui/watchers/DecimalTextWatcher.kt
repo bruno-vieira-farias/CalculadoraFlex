@@ -1,4 +1,4 @@
-package br.com.onurbasfar.calculadoraflex.watchers
+package br.com.onurbasfar.calculadoraflex.ui.watchers
 
 import android.text.Editable
 import android.text.TextWatcher

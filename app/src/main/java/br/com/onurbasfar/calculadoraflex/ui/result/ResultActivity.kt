@@ -15,7 +15,6 @@ class ResultActivity : AppCompatActivity() {
 
         val currentIntentExtra = intent.extras
 
-
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
         supportActionBar?.setDisplayShowHomeEnabled(true)
 
